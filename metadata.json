@@ -1,0 +1,13 @@
+{
+  "name": "utsav",
+  "description": "Comprehensive event management platform for Nepal featuring venue discovery, auspicious date (Sait) tracking, QR-coded guest management, and a gig marketplace for event staff.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "QR Scanning",
+    "Analytics",
+    "Calendar Management"
+  ]
+}
